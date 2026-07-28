@@ -91,7 +91,7 @@ AI-powered scheduling application that uses Gemini to interpret user prompts and
 
 Stack: TypeScript · Gemini · Google Calendar API
 
-→ "View Repository" (YOUR_SCHEDULE_AI_REPOSITORY_URL)
+→ "View Repository" (https://github.com/UgbabeOG/ScheduleAI-)
 
 ---
 
@@ -121,7 +121,7 @@ Exploring cloud operations, infrastructure management, automation, and cloud-nat
 
 Stack: TypeScript · Cloud · SaaS · Platform Engineering
 
-→ "View Repository" (YOUR_CIRCUITSOUL_CLOUDOPS_REPOSITORY_URL)
+→ "View Repository" (https://github.com/UgbabeOG/cloudOps)
 
 ---
 
