@@ -111,7 +111,7 @@ Go web application that consumes external REST APIs, processes JSON data, and re
 
 Stack: Go · REST APIs · JSON · HTTP · HTML Templates
 
-→ "View Repository" (YOUR_GROUPIE_TRACKER_REPOSITORY_URL)
+→ "View Repository" (https://github.com/UgbabeOG/Groupie-tracker)
 
 ---
 
